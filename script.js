@@ -1,3 +1,3 @@
 function showMessage() {
-  document.getElementById("msg").innerText = "Hello from JS!";
+  document.getElementById("msg").innerText = "Hello! You clicked the button.";
 }
